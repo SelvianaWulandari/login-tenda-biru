@@ -1,0 +1,141 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-XCy {
+  box-sizing: border-box;
+  padding: 0rem 24.6rem 13.6rem 24.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  border-radius: 2.4rem;
+}
+.login-XCy .tenda-1-UGd {
+  margin-bottom: 2.5rem;
+  width: 44.5rem;
+  height: 44.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ {
+  box-sizing: border-box;
+  padding: 4.1rem 3.9rem 4.2rem 3.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.7rem #000000;
+  box-shadow: 1rem 1.1rem 2rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 5.4rem;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .masuk-RzV {
+  margin: 0rem 0rem 6.1rem 2.4rem;
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #000000;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-ungs-WW9 {
+  margin: 0rem 8.1rem 1.7rem 0rem;
+  width: calc(100% - 8.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-ungs-WW9 .username-dam {
+  margin-right: 3.9rem;
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #000000;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-ungs-WW9 .rectangle-2-Aah {
+  margin-top: 0.6rem;
+  width: 55.5rem;
+  height: 6.1rem;
+  border: solid 0.4rem #001434;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 3.4rem;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-khej-3eV {
+  margin: 0rem 8.1rem 3.5rem 0rem;
+  width: calc(100% - 8.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-khej-3eV .password-L7o {
+  margin-right: 5.3rem;
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #000000;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-khej-3eV .rectangle-3-fQy {
+  margin-top: 0.7rem;
+  width: 55.5rem;
+  height: 6.1rem;
+  border: solid 0.4rem #001434;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 3.4rem;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-ge8s-ywT {
+  margin: 0rem 35rem 0rem 36.6rem;
+  width: calc(100% - 71.6rem);
+  height: 4.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-ge8s-ywT .buat-akun-i8M {
+  width: 15.3rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #000000;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-XCy .auto-group-lx2w-aaZ .auto-group-ge8s-ywT .line-1-QWy {
+  width: 13.9rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 4.4rem;
+  background-color: #000000;
+}
